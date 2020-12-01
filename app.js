@@ -214,7 +214,7 @@ app.get('/', (req, res) => {
   <!--<![endif]-->
   <div align="left" class="img-container left fixedwidth fullwidthOnMobile" style="padding-right: 0px;padding-left: 10px;">
   <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 10px;" align="left"><![endif]-->
-  <div style="font-size:1px;line-height:10px"> </div><img alt="Your Logo" border="0" class="left fixedwidth fullwidthOnMobile" src="images/logo.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 54px; display: block;" title="Your Logo" width="54"/>
+  <div style="font-size:1px;line-height:10px"> </div><img alt="Your Logo" border="0" class="left fixedwidth fullwidthOnMobile" src="https://raw.githubusercontent.com/coinpavier/files/master/iamges/logo.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 54px; display: block;" title="Your Logo" width="54"/>
   <div style="font-size:1px;line-height:10px"> </div>
   <!--[if mso]></td></tr></table><![endif]-->
   </div>
@@ -274,7 +274,7 @@ app.get('/', (req, res) => {
   <div style="border-top:0px solid transparent; border-left:0px solid transparent; border-bottom:0px solid transparent; border-right:0px solid transparent; padding-top:5px; padding-bottom:5px; padding-right: 0px; padding-left: 0px;">
   <!--<![endif]-->
   <div align="center" class="img-container center fixedwidth" style="padding-right: 0px;padding-left: 0px;">
-  <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><img align="center" alt="Light blue sphere with flowers" border="0" class="center fixedwidth" src="images/okok.gif" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 272px; display: block;" title="Light blue sphere with flowers" width="272"/>
+  <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 0px;padding-left: 0px;" align="center"><![endif]--><img align="center" alt="Light blue sphere with flowers" border="0" class="center fixedwidth" src="https://raw.githubusercontent.com/coinpavier/files/master/images/okok.gif" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 272px; display: block;" title="Light blue sphere with flowers" width="272"/>
   <!--[if mso]></td></tr></table><![endif]-->
   </div>
   <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding-right: 10px; padding-left: 10px; padding-top: 10px; padding-bottom: 10px; font-family: Georgia, serif"><![endif]-->
@@ -286,7 +286,7 @@ app.get('/', (req, res) => {
   <!--[if mso]></td></tr></table><![endif]-->
   <div align="center" class="img-container center fixedwidth" style="padding-right: 25px;padding-left: 25px;">
   <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 25px;padding-left: 25px;" align="center"><![endif]-->
-  <div style="font-size:1px;line-height:25px"> </div><img align="center" alt="Separator" border="0" class="center fixedwidth" src="images/separator.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 136px; display: block;" title="Separator" width="136"/>
+  <div style="font-size:1px;line-height:25px"> </div><img align="center" alt="Separator" border="0" class="center fixedwidth" src="https://raw.githubusercontent.com/coinpavier/files/master/images/separator.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 136px; display: block;" title="Separator" width="136"/>
   <div style="font-size:1px;line-height:25px"> </div>
   <!--[if mso]></td></tr></table><![endif]-->
   </div>
@@ -943,7 +943,7 @@ app.get('/', (req, res) => {
   </table>
   <div align="center" class="img-container center fixedwidth" style="padding-right: 25px;padding-left: 25px;">
   <!--[if mso]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr style="line-height:0px"><td style="padding-right: 25px;padding-left: 25px;" align="center"><![endif]-->
-  <div style="font-size:1px;line-height:25px"> </div><img align="center" alt="Separator" border="0" class="center fixedwidth" src="images/separator.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 136px; display: block;" title="Separator" width="136"/>
+  <div style="font-size:1px;line-height:25px"> </div><img align="center" alt="Separator" border="0" class="center fixedwidth" src="https://raw.githubusercontent.com/coinpavier/files/master/images/separator.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; width: 100%; max-width: 136px; display: block;" title="Separator" width="136"/>
   <div style="font-size:1px;line-height:25px"> </div>
   <!--[if mso]></td></tr></table><![endif]-->
   </div>
@@ -972,7 +972,7 @@ app.get('/', (req, res) => {
   <td style="word-break: break-word; vertical-align: top; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" valign="top">
   <table align="center" cellpadding="0" cellspacing="0" role="presentation" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" valign="top">
   <tr style="vertical-align: top;" valign="top">
-  <td align="center" style="word-break: break-word; vertical-align: top; text-align: center; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px;" valign="top"><img align="center" class="icon" height="32" src="images/logo.png" style="border:0;" width="null"/></td>
+  <td align="center" style="word-break: break-word; vertical-align: top; text-align: center; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px;" valign="top"><img align="center" class="icon" height="32" src="https://raw.githubusercontent.com/coinpavier/files/master/images/logo.png" style="border:0;" width="null"/></td>
   </tr>
   </table>
   </td>
@@ -985,10 +985,10 @@ app.get('/', (req, res) => {
   <table align="center" cellpadding="0" cellspacing="0" class="social_table" role="presentation" style="table-layout: fixed; vertical-align: top; border-spacing: 0; border-collapse: collapse; mso-table-tspace: 0; mso-table-rspace: 0; mso-table-bspace: 0; mso-table-lspace: 0;" valign="top">
   <tbody>
   <tr align="center" style="vertical-align: top; display: inline-block; text-align: center;" valign="top">
-  <td style="word-break: break-word; vertical-align: top; padding-bottom: 0; padding-right: 10px; padding-left: 10px;" valign="top"><a href="https://www.facebook.com/" target="_blank"><img alt="Facebook" height="32" src="images/facebook2x.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; display: block;" title="facebook" width="32"/></a></td>
-  <td style="word-break: break-word; vertical-align: top; padding-bottom: 0; padding-right: 10px; padding-left: 10px;" valign="top"><a href="https://www.twitter.com/" target="_blank"><img alt="Twitter" height="32" src="images/twitter2x.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; display: block;" title="twitter" width="32"/></a></td>
-  <td style="word-break: break-word; vertical-align: top; padding-bottom: 0; padding-right: 10px; padding-left: 10px;" valign="top"><a href="https://www.linkedin.com/" target="_blank"><img alt="Linkedin" height="32" src="images/linkedin2x.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; display: block;" title="linkedin" width="32"/></a></td>
-  <td style="word-break: break-word; vertical-align: top; padding-bottom: 0; padding-right: 10px; padding-left: 10px;" valign="top"><a href="https://www.instagram.com/" target="_blank"><img alt="Instagram" height="32" src="images/instagram2x.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; display: block;" title="instagram" width="32"/></a></td>
+  <td style="word-break: break-word; vertical-align: top; padding-bottom: 0; padding-right: 10px; padding-left: 10px;" valign="top"><a href="https://www.facebook.com/" target="_blank"><img alt="Facebook" height="32" src="https://raw.githubusercontent.com/coinpavier/files/master/images/facebook2x.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; display: block;" title="facebook" width="32"/></a></td>
+  <td style="word-break: break-word; vertical-align: top; padding-bottom: 0; padding-right: 10px; padding-left: 10px;" valign="top"><a href="https://www.twitter.com/" target="_blank"><img alt="Twitter" height="32" src="https://raw.githubusercontent.com/coinpavier/files/master/images/twitter2x.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; display: block;" title="twitter" width="32"/></a></td>
+  <td style="word-break: break-word; vertical-align: top; padding-bottom: 0; padding-right: 10px; padding-left: 10px;" valign="top"><a href="https://www.linkedin.com/" target="_blank"><img alt="Linkedin" height="32" src="https://raw.githubusercontent.com/coinpavier/files/master/images/linkedin2x.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; display: block;" title="linkedin" width="32"/></a></td>
+  <td style="word-break: break-word; vertical-align: top; padding-bottom: 0; padding-right: 10px; padding-left: 10px;" valign="top"><a href="https://www.instagram.com/" target="_blank"><img alt="Instagram" height="32" src="https://raw.githubusercontent.com/coinpavier/files/master/images/instagram2x.png" style="text-decoration: none; -ms-interpolation-mode: bicubic; height: auto; border: 0; display: block;" title="instagram" width="32"/></a></td>
   </tr>
   </tbody>
   </table>
